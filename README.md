@@ -1,3 +1,3 @@
 # LLM assisted bash script
-# Bash Script created by or with the assistance of Large Language Models
+## Bash Script created by or with the assistance of Large Language Models
 
